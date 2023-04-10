@@ -1,0 +1,11 @@
+{
+  "name": "demo2",
+  "version": "1.0.0",
+  "description": "nodejs 联系demo2",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChenYi",
+  "license": "ISC"
+}
